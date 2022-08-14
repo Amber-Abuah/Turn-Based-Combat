@@ -2,9 +2,10 @@
 A turn based combat battle system, developed in Unity.
 
 ## How To Play
-Navigate to Turn Based Combat/Builds and run the Turn Based Combat.exe.  
+Navigate to Turn Based Combat/ Builds and run Turn Based Combat.exe.  
   
 In the game, you control 4 party members, each who can either perform melee attacks or use an elemental ability. In addition the characters can use items and also cast an ultimate attack (when enough points have been accumulated) to deal devastating damage.  
+
 To change the currently selected enemy to attack, use the A and D keys.  
 
 At the victory or defeat screen, press enter to restart the game.  
@@ -13,11 +14,11 @@ At the victory or defeat screen, press enter to restart the game.
 ![1](https://user-images.githubusercontent.com/107321078/184544323-70d1e369-2ad9-4b58-bd76-9d11bfaaa516.png)
 
 
-### Meelee Attacks
+### Melee Attacks
 ![2](https://user-images.githubusercontent.com/107321078/184544346-4dd14ce1-bd62-45b5-b342-f5691e9166c6.png)
 
 
-### Elemental Abilties
+### Elemental Abilities
 ![3](https://user-images.githubusercontent.com/107321078/184544355-3971de04-6c05-42d3-906c-2c8319a3701c.png)
 ![4](https://user-images.githubusercontent.com/107321078/184544358-30c5a0e5-536d-4b8b-8b0b-0e2cdf5c7859.png)
 
