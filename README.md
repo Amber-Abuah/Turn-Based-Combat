@@ -2,7 +2,7 @@
 A turn based combat battle system, developed in Unity.
 
 ## How To Play
-Navigate to Turn Based Combat/ Builds and run Turn Based Combat.exe.  
+Select Turn Based Combat from Releases and download TurnBasedCombat-BuildWindows.zip.Then run Turn Based Combat.exe.  
   
 In the game, you control 4 party members, each who can either perform melee attacks or use an elemental ability. In addition the characters can use items and also cast an ultimate attack (when enough points have been accumulated) to deal devastating damage.  
 
